@@ -1,0 +1,81 @@
+.navbar {
+    background: #030201;
+    opacity: 0.8;
+    
+ }
+ .nav-item{
+    text-transform: uppercase;
+    font-size: 16px;
+
+ }
+ .navbar .nav-link{
+     font-size: 16px;
+     padding-left: 1rem !important;
+     padding-right: 1rem !important;
+ }
+
+ .carousel-item {
+    height: 450px; }
+  
+  .carousel-img-1 {
+    background: url("../image/image1.jpg");
+    background-size: cover; }
+  
+  .carousel-img-2 {
+    background: url("../image/image2.jpg");
+    background-size: cover; }
+  
+  .carousel-img-3 {
+    background: url("../image/image3.jpg");
+    background-size: cover; 
+}
+
+
+
+#getstart{
+        position: relative;
+        background: url("../image/dark\ night.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        min-height: 250px;
+        color: white; 
+    }
+
+
+    #home-video {
+        position: relative;
+        background: url("../image/media.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        min-height: 250px; 
+    }
+        #home-video .fa {
+          font-size: 50px;
+         }
+        #home-video .dark-overlay {
+          background: rgba(0, 0, 0, 0.7);
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%; 
+        }
+
+        #gallery img {
+            max-height: 250px;
+         }
+
+         #footer{
+             height:100px;
+             background: black;
+             color: white;
+         }
+
+
+
+
+
+
+
